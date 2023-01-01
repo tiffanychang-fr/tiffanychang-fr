@@ -9,7 +9,7 @@
   
 [Fancy Adventure](https://tiffanychang-fr.github.io/Fancy-Adventure/) : A mini browser game built with JavaScript and P5.js library. You will discover four levels which represents four seasons with missions to complete.
    
-[Coffee In A Box](https://coffee-in-a-box.herokuapp.com/) : An ecommerce website built with handlebar, Bootstrap, JavaScript, Express.js, Node.js, Mongoose and MongoDB. You can subscribe for coffee box on our monthly selection.
+[Coffee In A Box](https://fair-pear-sweatpants.cyclic.app/) : An ecommerce website built with handlebar, Bootstrap, JavaScript, Express.js, Node.js, Mongoose and MongoDB. You can subscribe for coffee box on our monthly selection.
 
 [Piggy Back](https://piggy-back.netlify.app/) : An online community which connects foreigners and locals to help settling down process easier. It is built with MERN stack.
 
