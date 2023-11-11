@@ -1,7 +1,7 @@
 <h1>Hello, I'm Tiffany</h1> 
-<h3>A software Engineer based in Paris, France</h3>
+<h3>A data Engineer & full stack developer based in Paris, France</h3>
 
-🔭 I’m currently learning in a Fullstack web development Bootcamp at Ironhack in order to kick off a career in Frontend development.
+🔭 I’m currently learning in cloud data engineering.
 
 🌱 React Fullstack project loading ...
 
